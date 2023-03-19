@@ -1,4 +1,4 @@
-## Download the mod from releases page
+## Download the mod from [releases](https://github.com/TayModsSimpsons/Shar-RandomAnimations/releases) page
 Source code doesn't include [Lua P3D Lib](https://github.com/Hampo/LuaP3DLib)
 
 Would be cool to see this implemented into the randomiser mod.
